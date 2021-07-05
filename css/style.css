@@ -19,3 +19,7 @@
     top: -40px;
     transform: translateX(-50%);
 }
+.team_member .card .card-body a i {
+    color: grey;
+    margin-right: 0.7rem;
+}
